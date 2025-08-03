@@ -25,6 +25,7 @@ This project lets you wirelessly control a motor using an ESP32, MD10C motor dri
 - ESP32 Wi-Fi libraries
 
 ## RemoteXY GUI Layout
+![WhatsApp Image 2025-08-03 at 3 11 52 PM](https://github.com/user-attachments/assets/7de610da-9532-4b70-a234-ebb527899216)
 
 
 
