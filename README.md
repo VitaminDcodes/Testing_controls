@@ -1,6 +1,6 @@
 # ESP32 Wi-Fi Remote Motor Controller
 
-This project lets you wirelessly control a motor using an ESP32, MD10C motor driver, and a custom RemoteXY interface. Built for testing and demonstration of Wi-Fi-based remote control systems.
+This project lets you wirelessly control a 4 wheel bot using an ESP32, MD10C motor driver, and a custom RemoteXY interface. Built for testing and demonstration of Wi-Fi-based remote control systems.
 
 ## Features
 
