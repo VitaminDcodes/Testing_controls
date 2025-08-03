@@ -31,7 +31,7 @@ This project lets you wirelessly control a motor using an ESP32, MD10C motor dri
 
 This ESP32 robot is controlled via **RemoteXY WiFi GUI**, where the text field (`edit_1`) is used to switch between control modes, and four buttons perform different actions depending on the selected mode.
 
-| Mode (`edit_1`) | Button 1              | Button 2              | Button 3                  | Button 4                  |
+| Mode (`edit_1`) | F/R                    |  B/L                   | </S                        | R/>                        | 
 |-----------------|------------------------|------------------------|----------------------------|----------------------------|
 | `move`          | Move Forward           | Move Backward          | Decrease Speed             | Increase Speed             |
 | `spot`          | Spot Turn CW           | Spot Turn CCW          | Side Shift Left            | Side Shift Right           |
